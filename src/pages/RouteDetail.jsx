@@ -18,7 +18,7 @@ const RouteDetail = () => {
     window.scrollTo(0, 0);
   }, [id]);
 
-  const getRelatedImage = (name, _desc) => {
+  const getRelatedImage = (name) => {
     const localImages = [
       '/ooty.jpg', '/valparai.jpg', '/kodaikanal.jpg', '/coonoor_new.png', 
       '/kotagiri.png', '/yercaud.png', '/munnar.png', '/athirappilly.png', 
