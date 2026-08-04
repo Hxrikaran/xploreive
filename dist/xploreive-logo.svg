@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <circle cx="50" cy="50" r="46" fill="#1A1614" stroke="#C29B62" stroke-width="3" />
+  <circle cx="50" cy="50" r="40" fill="none" stroke="#C29B62" stroke-width="1" stroke-dasharray="3,3" opacity="0.6" />
+  <!-- Mountain & Compass Peaks -->
+  <path d="M50 16 L60 46 L82 50 L60 54 L50 84 L40 54 L18 50 L40 46 Z" fill="#C29B62" />
+  <path d="M50 20 L58 48 L50 50 Z" fill="#E3B474" />
+  <path d="M50 50 L58 52 L50 80 Z" fill="#9E7B44" />
+  <path d="M50 50 L42 52 L18 50 Z" fill="#E3B474" />
+  <circle cx="50" cy="50" r="4" fill="#FFFFFF" />
+</svg>
